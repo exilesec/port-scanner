@@ -1,8 +1,6 @@
-# ExileSec - Simple Port Scanner
+# Simple Port Scanner By Exilesec
 
-![ExileSec Banner](https://via.placeholder.com/500x100?text=ExileSec) <!-- Optional: Replace with an actual banner image -->
-
-**ExileSec** is a simple Python-based port scanner designed for educational purposes. It allows users to check which ports are open on a target IP address within a limited range (1-999).
+This is a simple Python-based port scanner designed for educational purposes. It allows users to check which ports are open on a target IP address within a limited range (1-999).
 
 > ⚠️ **Warning:** Use this tool responsibly. Scanning networks without permission is illegal and unethical. This project is intended for learning and testing on networks you own or have explicit permission to scan.
 
